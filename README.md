@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello World! I'am Muhammad Arya Suhendi 👋
+![Arya Suhendi](img/git-arya.png)
 <!--
 **AryaSuhendi29/AryaSuhendi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Website Development
+- 🌱 I’m currently learning Software Engineering, Data Analyst and Data Scientis
+
+![Spiderman](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTUzdGc0cHNucXRleXVrZnh5M2N6dWozNTNqYjZpOTNuMXQwbGJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNssW1DvTEXtll108b/giphy.gif)
