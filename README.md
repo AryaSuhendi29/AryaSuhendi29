@@ -71,7 +71,7 @@
 ###### GitHub Stats
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaSuhendi29&show_icons=true&theme=radical) -->
 
-<p align="left">Play Games With Me</p>
+##### <p align="left">Play Games With Me</p>
 
 ###
 
